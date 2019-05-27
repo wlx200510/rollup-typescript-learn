@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "eslint-config-alloy/typescript"
+  ],
+  "globals": {
+    "$": false
+  },
+  "rules": {
+    "@typescript-eslint/semi": false
+  }
+}
