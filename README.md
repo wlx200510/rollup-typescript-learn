@@ -16,20 +16,16 @@
 -   "eslint" 代码风格检查
 -   "babel-eslint" babel解析器
 -   "prettier": 自动格式化
--   "typescript-eslint-parser" eslint 用于 ts 检查的解析器
 -   "rollup": 核心工具, 这个建议全局安装，不建议放到本地(因为后续要装一堆)
 -   "rollup-plugin-commonjs": "^9.1.0",
 -   "rollup-plugin-node-resolve": "4.0.0",
 -   "rollup-plugin-replace": "^2.0.0",
 -   "rollup-plugin-uglify"  压缩工具
 -   "serve" 服务器托管工具
--   "eslint-plugin-typescript" 使用eslint来校验ts
 -   "rollup-plugin-typescript" 使用rollup来转换ts
 -   "eslint-config-alloy" 使用AlloyTeam的 ESLint 来转换
 -   "@typescript-eslint/eslint-plugin" 把 eslint 用于ts的解析插件
-
 -   "typescript"
--   "tslib"        typescript解析库
 
 配置参考仓库教程：https://github.com/AlloyTeam/eslint-config-alloy
 
