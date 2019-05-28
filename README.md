@@ -7,6 +7,7 @@
 ### 准备工作
 
 初始化整个项目文件夹，生成`package.json`，并安装基本的依赖。
+
 开发依赖有以下几个：
 
 -   "husky" 用于自动格式化文件
@@ -29,6 +30,8 @@
 
 -   "typescript"
 -   "tslib"        typescript解析库
+
+配置参考仓库教程：https://github.com/AlloyTeam/eslint-config-alloy
 
 ts代码打包成js代码
 

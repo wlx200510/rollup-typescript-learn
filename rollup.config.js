@@ -23,6 +23,7 @@ let config = {
     file: 'dist/assets/app.js',
     format: 'iife',
     name: 'app',
+    exports: 'named',
     sourcemap: true
   },
   plugins: plugins
